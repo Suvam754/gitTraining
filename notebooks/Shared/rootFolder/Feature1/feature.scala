@@ -1,3 +1,3 @@
 // Databricks notebook source
-val a = "Feature1new"
+val a = "Feature1newTraining"
 print(a)
